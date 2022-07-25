@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="bootJpaExample:ear exploded">
+    <output-path>$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/out/artifacts/bootJpaExample_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="bootJpaExample/javaeeApplication/javaEEApplication" />
+      <element id="directory" name="web.war">
+        <element id="artifact" artifact-name="bootJpaExample:war exploded" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="JAX-WS-Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" type="JAX-WS">
+    <properties version="Glassfish / JAX-WS 2.2 RI / Metro 1.X / JWSDP 2.2" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/javax.annotation.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jaxb-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jsr181-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/ha-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/FastInoset.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jaxws-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/mail.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jaxws-tools.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jaxb-impl.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/jaxws-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/mimepull.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/management-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/saaj-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/saaj-impl.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/stax2-api.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/stax-ex.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/streambuffer.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/springBoot_tutorial/bootJpaExample/lib/policy.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
